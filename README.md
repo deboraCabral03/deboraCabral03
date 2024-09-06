@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @deboraCabral03
-- 👀 I’m interested in  Programação mobile
-- 🌱 I’m currently learning  JavaScript e Php
-- 💞️ I’m looking to collaborate on  
-- 📫 How to reach me ...
+Hi, I'm Debora, I live in São Paulo, Brazil.
+I'm a computer science student. :)
 
 <!---
 deboraCabral03/deboraCabral03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
