@@ -14,9 +14,9 @@
 
 ## 📊 Sobre mim
 
-Trabalho com análise de dados em ambiente de ERP: extraio, cruzo e valido informações financeiras e fiscais para encontrar inconsistências e corrigir a causa, não só o sintoma.
+Trabalho com análise de dados em ambiente de ERP: extraio, confronto e valido informações financeiras e fiscais para identificar inconsistências e corrigir a causa, não apenas o sintoma.
 
-Meu dia a dia é em **Oracle SQL e PL/SQL**, mapeando a estrutura do banco do **TOTVS Protheus** contra a regra de negócio. Quando uma tarefa se repete, eu automatizo com **Python**: recentemente criei um script que gera automaticamente SELECTs com JOINs, scripts de carga e ajustes de views em PL/SQL, para ganhar tempo e reduzir erro manual.
+Meu dia a dia é em **Oracle SQL e PL/SQL**, mapeando a estrutura do banco do **TOTVS Protheus** contra a regra de negócio. Quando uma tarefa se repete, eu automatizo com **Python**: recentemente criei um script que gera automaticamente SELECTs com JOINs, scripts de carga e ajustes de views em PL/SQL, para ganhar tempo e reduzir erros manuais.
 
 Antes, atuei em TI na **Sandvik Coromant**, na gestão de identidades e acessos com Microsoft Entra ID. Curso Ciência da Computação (Cruzeiro do Sul) e sou certificada **AZ-900**.
 
