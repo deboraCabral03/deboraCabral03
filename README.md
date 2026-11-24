@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=180&section=header&text=Debora+Cabral&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=An%C3%A1lise+de+Dados&descAlignY=58&descSize=20" width="100%" alt="Cabeçalho" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=0E75B6&center=true&vCenter=true&width=600&lines=SELECT+insights+FROM+dados%3B;An%C3%A1lise+de+dados+em+ERP;Oracle+SQL+%7C+PL%2FSQL+%7C+Python;Python+que+gera+PL%2FSQL+automaticamente" alt="Texto animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=0E75B6&center=true&vCenter=true&width=600&lines=SELECT+insights+FROM+dados%3B;An%C3%A1lise+de+dados+em+ERP;Oracle+SQL+%7C+PL%2FSQL+%7C+Python" alt="Texto animado" />
 </p>
 
 <p align="center">
