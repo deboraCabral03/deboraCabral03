@@ -33,7 +33,7 @@ Antes, atuei em TI na **Sandvik Coromant**, na gestão de identidades e acessos 
 
 <p align="center">
   
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboraCabral03&layout=compact&hide_border=true" alt="Linguagens mais usadas" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboraCabral03&layout=compact&hide_border=true&v=2" alt="Linguagens mais usadas" />
 </p>
 
 <picture>
